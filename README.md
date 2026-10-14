@@ -28,7 +28,7 @@
 
 ### ◼ ABOUT
 
-Focused on product frontends. I build with React, Next.js and TypeScript: the Quiz Maker LMS (admin, teacher and student interfaces, designed in Figma and led with a team of three) and a bilingual marketing site for Prita Bali Nanny & Family Care. On the backend I work with Go, FastAPI, Laravel and PostgreSQL/Supabase, including two ERP systems and a React Native driver app. I also built Elior, an open-source on-device vision assistant. Looking for remote product engineering roles.
+Full stack engineer focused on product frontends. I build with React, Next.js and TypeScript: the Quiz Maker LMS (admin, teacher and student interfaces, designed in Figma and led with a team of three) and a bilingual marketing site for Prita Bali Nanny & Family Care. On the backend I work with Go, FastAPI, Laravel and PostgreSQL/Supabase, including two ERP systems and a React Native driver app. I also built Elior, an open-source on-device vision assistant. Looking for remote product engineering roles.
 
 ---
 
