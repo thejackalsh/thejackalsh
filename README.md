@@ -2,15 +2,23 @@
 
 <br>
 
-# KEVIN SIDHARTA HANDOYO
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg">
+  <img src="assets/header-light.svg" alt="Kevin Sidharta Handoyo, Full Stack Engineer" width="800">
+</picture>
 
-**Full Stack Engineer** · Laravel · Next.js · React Native
+<br><br>
 
-<br>
-
-<a href="https://www.linkedin.com/in/kevinshandoyo/"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="https://www.instagram.com/kevinshandoyo/"><img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
-<a href="mailto:kevinshandoyo@gmail.com"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+<a href="https://www.linkedin.com/in/kevinshandoyo/"><picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/social-linkedin-dark.svg">
+  <img src="assets/social-linkedin-light.svg" alt="LinkedIn" width="44">
+</picture></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.instagram.com/kevinshandoyo/"><picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/social-instagram-dark.svg">
+  <img src="assets/social-instagram-light.svg" alt="Instagram" width="44">
+</picture></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="mailto:kevinshandoyo@gmail.com"><picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/social-email-dark.svg">
+  <img src="assets/social-email-light.svg" alt="Email" width="44">
+</picture></a>
 
 <br><br>
 
@@ -20,21 +28,20 @@
 
 ### ◼ ABOUT
 
-I build product frontends and the systems behind them. ERP platforms, a RAG-based learning app, a React Native driver app, and an open-source on-device vision assistant.
-
-Currently freelancing at **PT Graha Sentosa Transport**, replacing a legacy Windows desktop app with a Laravel ERP and an Android companion app.
+Full stack engineer in Surabaya, Indonesia, focused on product frontends. I build with React, Next.js and TypeScript: the Quiz Maker LMS (admin, teacher and student interfaces, designed in Figma and led with a team of three) and a bilingual marketing site for Prita Bali Nanny & Family Care. On the backend I work with Go, FastAPI, Laravel and PostgreSQL/Supabase, including two ERP systems and a React Native driver app. I also built Elior, an open-source on-device vision assistant. Looking for remote product engineering roles.
 
 ---
 
 ### ◼ STACK
 
-| | |
-|---|---|
-| **Web** | ![Laravel](https://img.shields.io/badge/Laravel-000000?style=flat-square&logo=laravel&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-000000?style=flat-square&logo=php&logoColor=white) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) ![React](https://img.shields.io/badge/React-000000?style=flat-square&logo=react&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=flat-square&logo=typescript&logoColor=white) |
-| **Mobile** | ![React Native](https://img.shields.io/badge/React_Native-000000?style=flat-square&logo=react&logoColor=white) ![Expo](https://img.shields.io/badge/Expo-000000?style=flat-square&logo=expo&logoColor=white) |
-| **Backend** | ![Go](https://img.shields.io/badge/Go-000000?style=flat-square&logo=go&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-000000?style=flat-square&logo=fastapi&logoColor=white) ![Python](https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=white) |
-| **Data** | ![MySQL](https://img.shields.io/badge/MySQL-000000?style=flat-square&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000000?style=flat-square&logo=postgresql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-000000?style=flat-square&logo=supabase&logoColor=white) |
-| **Tools** | ![Docker](https://img.shields.io/badge/Docker-000000?style=flat-square&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/Git-000000?style=flat-square&logo=git&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-000000?style=flat-square&logo=figma&logoColor=white) ![Leaflet](https://img.shields.io/badge/Leaflet-000000?style=flat-square&logo=leaflet&logoColor=white) ![OpenStreetMap](https://img.shields.io/badge/OpenStreetMap-000000?style=flat-square&logo=openstreetmap&logoColor=white) |
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/stack-dark.svg">
+  <img src="assets/stack-light.svg" alt="Stack. Web: Laravel, PHP, Next.js, React, TypeScript. Mobile: React Native, Expo. Backend: Go, FastAPI, Python. Data: MySQL, PostgreSQL, Supabase. Tools: Docker, Git, Figma, Leaflet, OpenStreetMap." width="800">
+</picture>
+
+</div>
 
 ---
 
@@ -42,12 +49,12 @@ Currently freelancing at **PT Graha Sentosa Transport**, replacing a legacy Wind
 
 | Project | What | Stack |
 |---|---|---|
-| **Transport ERP** · Freelance | Replaces a legacy Windows app for a freight company: waybills, invoicing, general journal and ledger, vehicle expenses, spare parts, driver commissions, role-based access | Laravel, MySQL, Leaflet |
+| **Transport ERP** · Freelance | Replaces a legacy Windows app for a freight company: waybills, invoicing, general journal and ledger, vehicle expenses, spare parts, driver commissions, role-based access per module | Laravel, MySQL, Leaflet |
 | **Driver App** · Freelance | Android app for tracking, waybills, targets, commissions and balances, synced with the web system | React Native (Expo) |
-| **Quiz Maker LMS** · Contract, led team of 3 | Teachers upload materials, AI generates exam questions, AI summarizes each student's understanding | Next.js, shadcn, Go, FastAPI, Supabase |
-| **Sales & Finance ERP** · Contract | Master data, roles, installment payments with history, sales and financial reports | Laravel, MySQL |
-| [**Elior**](https://github.com/thejackalsh/Elior-project) · Open source | Assistive app for visually impaired users: money, object and read modes. On-device rupiah recognition, OCR, cloud vision | React Native, Go/Gin, FastAPI, TFLite |
-| [**Prita Bali Nanny**](https://pritabalinannyfamilycare.com) · Client | Bilingual EN/ID marketing site, bookings go straight to WhatsApp | Next.js, TypeScript |
+| **Quiz Maker LMS** · Contract, led team of 3 | Teachers upload materials, AI generates exam questions, AI summarizes each student's understanding | Next.js, shadcn, Go, FastAPI, Figma, PostgreSQL, Supabase |
+| **Sales & Finance ERP** · Contract | Master data, role management, installment payments with history, sales and financial reports | Laravel, MySQL |
+| [**Elior**](https://github.com/thejackalsh/Elior-project) · Open source | Assistive app for visually impaired users: money, object and read modes. On-device rupiah recognition, OCR, cloud vision | React Native (Expo), Go/Gin, PostgreSQL, FastAPI, Docker |
+| [**Prita Bali Nanny**](https://pritabalinannyfamilycare.com) · Client | Bilingual EN/ID marketing site, bookings go straight to WhatsApp | Next.js, React, TypeScript |
 
 <sub>Client and contract work is in private repositories.</sub>
 
