@@ -28,14 +28,13 @@ Currently freelancing at **PT Graha Sentosa Transport**, replacing a legacy Wind
 
 ### ◼ STACK
 
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=php,laravel,nextjs,react,ts,go,py,fastapi,mysql,postgres,supabase,docker,git,figma&theme=dark&perline=14">
-  <img src="https://skillicons.dev/icons?i=php,laravel,nextjs,react,ts,go,py,fastapi,mysql,postgres,supabase,docker,git,figma&theme=light&perline=14" alt="Tech stack">
-</picture>
-
-</div>
+| | |
+|---|---|
+| **Web** | ![Laravel](https://img.shields.io/badge/Laravel-000000?style=flat-square&logo=laravel&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-000000?style=flat-square&logo=php&logoColor=white) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) ![React](https://img.shields.io/badge/React-000000?style=flat-square&logo=react&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=flat-square&logo=typescript&logoColor=white) |
+| **Mobile** | ![React Native](https://img.shields.io/badge/React_Native-000000?style=flat-square&logo=react&logoColor=white) ![Expo](https://img.shields.io/badge/Expo-000000?style=flat-square&logo=expo&logoColor=white) |
+| **Backend** | ![Go](https://img.shields.io/badge/Go-000000?style=flat-square&logo=go&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-000000?style=flat-square&logo=fastapi&logoColor=white) ![Python](https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=white) |
+| **Data** | ![MySQL](https://img.shields.io/badge/MySQL-000000?style=flat-square&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000000?style=flat-square&logo=postgresql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-000000?style=flat-square&logo=supabase&logoColor=white) |
+| **Tools** | ![Docker](https://img.shields.io/badge/Docker-000000?style=flat-square&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/Git-000000?style=flat-square&logo=git&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-000000?style=flat-square&logo=figma&logoColor=white) ![Leaflet](https://img.shields.io/badge/Leaflet-000000?style=flat-square&logo=leaflet&logoColor=white) ![OpenStreetMap](https://img.shields.io/badge/OpenStreetMap-000000?style=flat-square&logo=openstreetmap&logoColor=white) |
 
 ---
 
