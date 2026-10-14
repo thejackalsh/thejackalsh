@@ -2,23 +2,13 @@
 
 <br>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg">
-  <img src="assets/header-light.svg" alt="Kevin Sidharta Handoyo, Full Stack Engineer" width="800">
-</picture>
+# KEVIN SIDHARTA HANDOYO
 
-<br><br>
+<code>Full Stack Engineer / Laravel / Next.js / React Native</code>
 
-<a href="https://www.linkedin.com/in/kevinshandoyo/"><picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/social-linkedin-dark.svg">
-  <img src="assets/social-linkedin-light.svg" alt="LinkedIn" width="44">
-</picture></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.instagram.com/kevinshandoyo/"><picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/social-instagram-dark.svg">
-  <img src="assets/social-instagram-light.svg" alt="Instagram" width="44">
-</picture></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="mailto:kevinshandoyo@gmail.com"><picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/social-email-dark.svg">
-  <img src="assets/social-email-light.svg" alt="Email" width="44">
-</picture></a>
+<br>
+
+<a href="https://www.linkedin.com/in/kevinshandoyo/" title="LinkedIn"><picture><source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/fa6-brands/linkedin.svg?color=%23ffffff"><img src="https://api.iconify.design/fa6-brands/linkedin.svg?color=%23000000" height="26" alt=""></picture></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.instagram.com/kevinshandoyo/" title="Instagram"><picture><source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/simple-icons/instagram.svg?color=%23ffffff"><img src="https://api.iconify.design/simple-icons/instagram.svg?color=%23000000" height="26" alt=""></picture></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="mailto:kevinshandoyo@gmail.com" title="Email"><picture><source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/simple-icons/gmail.svg?color=%23ffffff"><img src="https://api.iconify.design/simple-icons/gmail.svg?color=%23000000" height="26" alt=""></picture></a>
 
 <br><br>
 
@@ -28,7 +18,7 @@
 
 ### ◼ ABOUT
 
-Full stack engineer in Surabaya, Indonesia, focused on product frontends. I build with React, Next.js and TypeScript: the Quiz Maker LMS (admin, teacher and student interfaces, designed in Figma and led with a team of three) and a bilingual marketing site for Prita Bali Nanny & Family Care. On the backend I work with Go, FastAPI, Laravel and PostgreSQL/Supabase, including two ERP systems and a React Native driver app. I also built Elior, an open-source on-device vision assistant. Looking for remote product engineering roles.
+Focused on product frontends. I build with React, Next.js and TypeScript: the Quiz Maker LMS (admin, teacher and student interfaces, designed in Figma and led with a team of three) and a bilingual marketing site for Prita Bali Nanny & Family Care. On the backend I work with Go, FastAPI, Laravel and PostgreSQL/Supabase, including two ERP systems and a React Native driver app. I also built Elior, an open-source on-device vision assistant. Looking for remote product engineering roles.
 
 ---
 
@@ -36,10 +26,15 @@ Full stack engineer in Surabaya, Indonesia, focused on product frontends. I buil
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/stack-dark.svg">
-  <img src="assets/stack-light.svg" alt="Stack. Web: Laravel, PHP, Next.js, React, TypeScript. Mobile: React Native, Expo. Backend: Go, FastAPI, Python. Data: MySQL, PostgreSQL, Supabase. Tools: Docker, Git, Figma, Leaflet, OpenStreetMap." width="800">
-</picture>
+<p align="center"><sub><b>WEB</b></sub><br><picture><source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/simple-icons/laravel.svg?color=%23ffffff"><img src="https://api.iconify.design/simple-icons/laravel.svg?color=%23000000" height="16" alt=""></picture>&nbsp;&nbsp;Laravel &nbsp;&nbsp;&nbsp;&nbsp; <picture><source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/simple-icons/php.svg?color=%23ffffff"><img src="https://api.iconify.design/simple-icons/php.svg?color=%23000000" height="16" alt=""></picture>&nbsp;&nbsp;PHP &nbsp;&nbsp;&nbsp;&nbsp; <picture><source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/simple-icons/nextdotjs.svg?color=%23ffffff"><img src="https://api.iconify.design/simple-icons/nextdotjs.svg?color=%23000000" height="16" alt=""></picture>&nbsp;&nbsp;Next.js &nbsp;&nbsp;&nbsp;&nbsp; <picture><source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/simple-icons/react.svg?color=%23ffffff"><img src="https://api.iconify.design/simple-icons/react.svg?color=%23000000" height="16" alt=""></picture>&nbsp;&nbsp;React &nbsp;&nbsp;&nbsp;&nbsp; <picture><source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/simple-icons/typescript.svg?color=%23ffffff"><img src="https://api.iconify.design/simple-icons/typescript.svg?color=%23000000" height="16" alt=""></picture>&nbsp;&nbsp;TypeScript</p>
+
+<p align="center"><sub><b>MOBILE</b></sub><br><picture><source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/simple-icons/react.svg?color=%23ffffff"><img src="https://api.iconify.design/simple-icons/react.svg?color=%23000000" height="16" alt=""></picture>&nbsp;&nbsp;React Native &nbsp;&nbsp;&nbsp;&nbsp; <picture><source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/simple-icons/expo.svg?color=%23ffffff"><img src="https://api.iconify.design/simple-icons/expo.svg?color=%23000000" height="16" alt=""></picture>&nbsp;&nbsp;Expo</p>
+
+<p align="center"><sub><b>BACKEND</b></sub><br><picture><source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/simple-icons/go.svg?color=%23ffffff"><img src="https://api.iconify.design/simple-icons/go.svg?color=%23000000" height="16" alt=""></picture>&nbsp;&nbsp;Go &nbsp;&nbsp;&nbsp;&nbsp; <picture><source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/simple-icons/fastapi.svg?color=%23ffffff"><img src="https://api.iconify.design/simple-icons/fastapi.svg?color=%23000000" height="16" alt=""></picture>&nbsp;&nbsp;FastAPI &nbsp;&nbsp;&nbsp;&nbsp; <picture><source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/simple-icons/python.svg?color=%23ffffff"><img src="https://api.iconify.design/simple-icons/python.svg?color=%23000000" height="16" alt=""></picture>&nbsp;&nbsp;Python</p>
+
+<p align="center"><sub><b>DATA</b></sub><br><picture><source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/simple-icons/mysql.svg?color=%23ffffff"><img src="https://api.iconify.design/simple-icons/mysql.svg?color=%23000000" height="16" alt=""></picture>&nbsp;&nbsp;MySQL &nbsp;&nbsp;&nbsp;&nbsp; <picture><source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/simple-icons/postgresql.svg?color=%23ffffff"><img src="https://api.iconify.design/simple-icons/postgresql.svg?color=%23000000" height="16" alt=""></picture>&nbsp;&nbsp;PostgreSQL &nbsp;&nbsp;&nbsp;&nbsp; <picture><source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/simple-icons/supabase.svg?color=%23ffffff"><img src="https://api.iconify.design/simple-icons/supabase.svg?color=%23000000" height="16" alt=""></picture>&nbsp;&nbsp;Supabase</p>
+
+<p align="center"><sub><b>TOOLS</b></sub><br><picture><source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/simple-icons/docker.svg?color=%23ffffff"><img src="https://api.iconify.design/simple-icons/docker.svg?color=%23000000" height="16" alt=""></picture>&nbsp;&nbsp;Docker &nbsp;&nbsp;&nbsp;&nbsp; <picture><source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/simple-icons/git.svg?color=%23ffffff"><img src="https://api.iconify.design/simple-icons/git.svg?color=%23000000" height="16" alt=""></picture>&nbsp;&nbsp;Git &nbsp;&nbsp;&nbsp;&nbsp; <picture><source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/simple-icons/figma.svg?color=%23ffffff"><img src="https://api.iconify.design/simple-icons/figma.svg?color=%23000000" height="16" alt=""></picture>&nbsp;&nbsp;Figma &nbsp;&nbsp;&nbsp;&nbsp; <picture><source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/simple-icons/leaflet.svg?color=%23ffffff"><img src="https://api.iconify.design/simple-icons/leaflet.svg?color=%23000000" height="16" alt=""></picture>&nbsp;&nbsp;Leaflet &nbsp;&nbsp;&nbsp;&nbsp; <picture><source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/simple-icons/openstreetmap.svg?color=%23ffffff"><img src="https://api.iconify.design/simple-icons/openstreetmap.svg?color=%23000000" height="16" alt=""></picture>&nbsp;&nbsp;OpenStreetMap</p>
 
 </div>
 
