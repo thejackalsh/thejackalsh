@@ -9,16 +9,9 @@
 
 <br><br>
 
-<a href="https://www.linkedin.com/in/kevinshandoyo/"><picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/social-linkedin-dark.svg">
-  <img src="assets/social-linkedin-light.svg" alt="LinkedIn" width="44">
-</picture></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.instagram.com/kevinshandoyo/"><picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/social-instagram-dark.svg">
-  <img src="assets/social-instagram-light.svg" alt="Instagram" width="44">
-</picture></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="mailto:kevinshandoyo@gmail.com"><picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/social-email-dark.svg">
-  <img src="assets/social-email-light.svg" alt="Email" width="44">
-</picture></a>
+<a href="https://www.linkedin.com/in/kevinshandoyo/"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://www.instagram.com/kevinshandoyo/"><img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
+<a href="mailto:kevinshandoyo@gmail.com"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 
 <br><br>
 
