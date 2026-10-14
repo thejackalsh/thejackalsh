@@ -2,9 +2,10 @@
 
 <br>
 
-# KEVIN SIDHARTA HANDOYO
-
-<code>Full Stack Engineer / Laravel / Next.js / React Native</code>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="header-dark.svg">
+  <img src="header-light.svg" alt="Kevin Sidharta Handoyo, Full Stack Engineer" width="800">
+</picture>
 
 <br>
 
