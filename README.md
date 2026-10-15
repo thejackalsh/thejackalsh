@@ -4,7 +4,7 @@
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg">
-  <img src="assets/header-light.svg" alt="Kevin Sidharta Handoyo, Full Stack Engineer" width="800">
+  <img src="assets/header-light.svg" alt="Kevin, Full Stack Engineer" width="800">
 </picture>
 
 <br><br>
@@ -46,7 +46,7 @@ Full stack engineer focused on product frontends. I build with React, Next.js an
 | **Driver App** · Freelance | Android app for tracking, waybills, targets, commissions and balances, synced with the web system | React Native (Expo) |
 | **Quiz Maker LMS** · Contract, led team of 3 | Teachers upload materials, AI generates exam questions, AI summarizes each student's understanding | Next.js, shadcn, Go, FastAPI, Figma, PostgreSQL, Supabase |
 | **Sales & Finance ERP** · Contract | Master data, role management, installment payments with history, sales and financial reports | Laravel, MySQL |
-| [**Elior**](https://github.com/thejackalsh/Elior-project) · Open source | Assistive app for visually impaired users: money, object and read modes. On-device rupiah recognition, OCR, cloud vision | React Native (Expo), Go/Gin, PostgreSQL, FastAPI, Docker |
+| [**Elior**](https://elior.my.id/) · [Open source](https://github.com/thejackalsh/Elior-project) | Assistive app for visually impaired users: money, object and read modes. On-device rupiah recognition, OCR, cloud vision | React Native (Expo), Go/Gin, PostgreSQL, FastAPI, Docker |
 | [**Prita Bali Nanny**](https://pritabalinannyfamilycare.com) · Client | Bilingual EN/ID marketing site, bookings go straight to WhatsApp | Next.js, React, TypeScript |
 
 <sub>Client and contract work is in private repositories.</sub>
