@@ -42,7 +42,7 @@ Full stack engineer (React, Next.js, Go, FastAPI, Laravel) building ERPs, mobile
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/stack-dark.svg">
-  <img src="assets/stack-light.svg" alt="Stack. Web: Laravel, PHP, Next.js, React, TypeScript. Mobile: React Native, Expo. Backend: Go, FastAPI, Python. Data: MySQL, PostgreSQL, Supabase. Tools: Docker, Git, Figma, Leaflet, OpenStreetMap." width="800">
+  <img src="assets/stack-light.svg" alt="Stack. Web: Laravel, PHP, Next.js, React, TypeScript. Mobile: React Native, Expo. Backend: Go, FastAPI, Python. Data: MySQL, PostgreSQL, Supabase. Tools: Docker, Git, Figma, Leaflet, OpenStreetMap. AI: Claude Code." width="800">
 </picture>
 
 </div>
