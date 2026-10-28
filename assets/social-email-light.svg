@@ -1,5 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="52" height="52" viewBox="0 0 52 52" role="img" aria-label="email">
-  <title>email</title>
-  <circle cx="26" cy="26" r="25" fill="none" stroke="#000000" stroke-width="1.5"/>
-  <path transform="translate(15 15) scale(0.9166666666666666)" d="M24 5.457v13.909c0 .904-.732 1.636-1.636 1.636h-3.819V11.73L12 16.64l-6.545-4.91v9.273H1.636A1.636 1.636 0 0 1 0 19.366V5.457c0-2.023 2.309-3.178 3.927-1.964L5.455 4.64 12 9.548l6.545-4.91 1.528-1.145C21.69 2.28 24 3.434 24 5.457z" fill="#000000"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="74" height="24" viewBox="0 0 74 24" role="img" aria-label="Email">
+  <title>Email</title>
+  <style>.d{opacity:0;animation:drop .6s cubic-bezier(.2,.8,.2,1) 0.7s both}@keyframes drop{from{opacity:0;transform:translateY(-16px)}to{opacity:1;transform:none}}@media (prefers-reduced-motion:reduce){.d{animation:none!important;opacity:1!important;transform:none!important}}</style>
+  <g class="d">
+  <path transform="translate(0 3) scale(0.75)" d="M24 5.457v13.909c0 .904-.732 1.636-1.636 1.636h-3.819V11.73L12 16.64l-6.545-4.91v9.273H1.636A1.636 1.636 0 0 1 0 19.366V5.457c0-2.023 2.309-3.178 3.927-1.964L5.455 4.64 12 9.548l6.545-4.91 1.528-1.145C21.69 2.28 24 3.434 24 5.457z" fill="#000000"/>
+  <text x="26" y="17" font-family="Consolas, 'Courier New', monospace" font-size="15" fill="#000000">Email</text>
+  </g>
 </svg>

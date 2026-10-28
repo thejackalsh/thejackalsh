@@ -4,14 +4,16 @@
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg">
-  <img src="assets/header-light.svg" alt="Kevin, Full Stack Engineer" width="800">
+  <img src="assets/header-light.svg" alt="Kevin, Software Engineer" width="800">
 </picture>
 
 <br><br>
 
-<a href="https://www.linkedin.com/in/kevinshandoyo/"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="https://www.instagram.com/kevinshandoyo/"><img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
-<a href="mailto:kevinshandoyo@gmail.com"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+<a href="https://www.linkedin.com/in/kevinshandoyo/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/social-linkedin-dark.svg"><img src="assets/social-linkedin-light.svg" alt="LinkedIn" width="102"></picture></a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://www.instagram.com/kevinshandoyo/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/social-instagram-dark.svg"><img src="assets/social-instagram-light.svg" alt="Instagram" width="112"></picture></a>
+&nbsp;&nbsp;&nbsp;
+<a href="mailto:kevinshandoyo@gmail.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/social-email-dark.svg"><img src="assets/social-email-light.svg" alt="Email" width="74"></picture></a>
 
 <br><br>
 
@@ -21,7 +23,7 @@
 
 ### ◼ CONTRIBUTIONS
 
-Full stack engineer (React, Next.js, Go, FastAPI, Laravel) building ERPs, mobile apps and on-device AI. Open to remote product engineering roles.
+Full stack engineer (React, Next.js, Go, FastAPI, Laravel) building ERPs, mobile apps and on-device AI. Open to remote software engineering roles.
 
 <div align="center">
 
@@ -49,21 +51,21 @@ Full stack engineer (React, Next.js, Go, FastAPI, Laravel) building ERPs, mobile
 
 ### ◼ SELECTED WORK
 
-| Project | What | Stack |
-|---|---|---|
-| **Transport ERP** · Freelance | Replaces a legacy Windows app for a freight company: waybills, invoicing, general journal and ledger, vehicle expenses, spare parts, driver commissions, role-based access per module | Laravel, MySQL, Leaflet |
-| **Driver App** · Freelance | Android app for tracking, waybills, targets, commissions and balances, synced with the web system | React Native (Expo) |
-| **Quiz Maker LMS** · Contract, led team of 3 | Teachers upload materials, AI generates exam questions, AI summarizes each student's understanding | Next.js, shadcn, Go, FastAPI, Figma, PostgreSQL, Supabase |
-| **Sales & Finance ERP** · Contract | Master data, role management, installment payments with history, sales and financial reports | Laravel, MySQL |
-| [**Elior**](https://elior.my.id/) · [Open source](https://github.com/thejackalsh/Elior-project) | Assistive app for visually impaired users: money, object and read modes. On-device rupiah recognition, OCR, cloud vision | React Native (Expo), Go/Gin, PostgreSQL, FastAPI, Docker |
-| [**Prita Bali Nanny**](https://pritabalinannyfamilycare.com) · Client | Bilingual EN/ID marketing site, bookings go straight to WhatsApp | Next.js, React, TypeScript |
+<div align="center">
 
-<sub>Client and contract work is in private repositories.</sub>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/work-dark.svg">
+  <img src="assets/work-light.svg" alt="Selected work. Transport ERP (freelance): Laravel, MySQL, Leaflet. Driver App (freelance): React Native, Expo. Quiz Maker LMS (contract, led team of 3): Next.js, shadcn, Go, FastAPI, Figma, PostgreSQL, Supabase. Sales and Finance ERP (contract): Laravel, MySQL. Elior (open source): React Native, Expo, Go, Gin, PostgreSQL, FastAPI, Docker. Prita Bali Nanny (client): Next.js, React, TypeScript." width="800">
+</picture>
+
+</div>
+
+<sub>Live: <a href="https://elior.my.id/">Elior</a> (<a href="https://github.com/thejackalsh/Elior-project">source</a>) · <a href="https://pritabalinannyfamilycare.com">Prita Bali Nanny</a>. Client and contract work is in private repositories.</sub>
 
 ---
 
 <div align="center">
 
-<sub>Looking for remote product engineering roles · <a href="mailto:kevinshandoyo@gmail.com">kevinshandoyo@gmail.com</a></sub>
+<sub>Looking for remote software engineering roles · <a href="mailto:kevinshandoyo@gmail.com">kevinshandoyo@gmail.com</a></sub>
 
 </div>
