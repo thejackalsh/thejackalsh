@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-Scrape public contribution calendar (no token) and render animated monochrome
+Scrape public contribution calendar (no token) and render animated green
 heatmap SVGs: assets/heatmap-dark.svg + assets/heatmap-light.svg.
 Stdlib only, so CI needs no pip install. Run daily by .github/workflows/update-heatmap.yml.
 
@@ -17,7 +17,7 @@ USER = os.environ.get("GH_PROFILE_USER", "thejackalsh")
 ROOT = os.path.join(os.path.dirname(os.path.abspath(__file__)), "..")
 OUT = {t: os.path.join(ROOT, "assets", f"heatmap-{t}.svg") for t in ("dark", "light")}
 
-# monochrome, matches header/stack assets. level 0..4
+# github green palette. level 0..4
 THEMES = {
     "dark":  {"lv": ["#161b22", "#0e4429", "#006d32", "#26a641", "#39d353"],
               "lbl": "#7d8590", "total": "#e6edf3", "sub": "#7d8590"},
