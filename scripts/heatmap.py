@@ -27,7 +27,7 @@ THEMES = {
 W = 800
 LEFT, TOP = 70, 30          # 70 = 40 margin (same as stack.svg) + 30 day labels
 CELL, STEP = 10, 13
-COL_T, ROW_T = 0.05, 0.03   # diagonal wave timing (~3s total)
+COL_T, ROW_T = 0.0625, 0.0375  # diagonal wave timing (~3.75s total)
 FONT = "Consolas, 'Courier New', monospace"
 
 
@@ -37,9 +37,9 @@ def css(t):
         f".lbl{{fill:{th['lbl']};font-size:11px;letter-spacing:1.5px}}"
         f".total{{fill:{th['total']};font-size:13px;font-weight:700;letter-spacing:.5px}}"
         f".sub{{fill:{th['sub']};font-size:11px;letter-spacing:1px}}"
-        ".c{transform-box:fill-box;transform-origin:center;opacity:0;animation:pop .5s ease-out both}"
-        ".g{animation:pop .5s ease-out both,flash .8s ease-out both}"
-        ".fade{opacity:0;animation:fade .8s ease-out both}"
+        ".c{transform-box:fill-box;transform-origin:center;opacity:0;animation:pop .625s ease-out both}"
+        ".g{animation:pop .625s ease-out both,flash 1s ease-out both}"
+        ".fade{opacity:0;animation:fade 1s ease-out both}"
         "@keyframes pop{0%{opacity:0;transform:scale(.2)}60%{opacity:1;transform:scale(1.15)}100%{opacity:1;transform:scale(1)}}"
         "@keyframes flash{0%,40%{filter:brightness(2.2)}100%{filter:brightness(1)}}"
         "@keyframes fade{from{opacity:0;transform:translateY(4px)}to{opacity:1;transform:none}}"
@@ -101,7 +101,7 @@ def render(days, theme):
         cols[-1].append(d)
 
     h = TOP + 7 * STEP + 38
-    end_t = (len(cols) - 1) * COL_T + 6 * ROW_T + 0.4
+    end_t = (len(cols) - 1) * COL_T + 6 * ROW_T + 0.5
     p = [f'<svg xmlns="http://www.w3.org/2000/svg" width="{W}" height="{h}" viewBox="0 0 {W} {h}" '
          f'role="img" aria-label="Contribution heatmap for the last year" font-family="{FONT}">',
          "<title>Contributions</title>", f"<style>{css(theme)}</style>"]
