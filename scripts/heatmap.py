@@ -144,6 +144,6 @@ def render(days, theme):
 if __name__ == "__main__":
     days = demo_days() if "--demo" in sys.argv else fetch_days()
     for t, path in OUT.items():
-        with open(path, "w") as f:
+        with open(path, "w", encoding="utf-8") as f:
             f.write(render(days, t))
     print(f"wrote {len(OUT)} svgs: {len(days)} days, {sum(d['count'] for d in days)} contributions")
