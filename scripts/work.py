@@ -61,7 +61,7 @@ def render(theme, icon):
            f".st{{fill:{th['mute']};font-size:11px}}"
            f".ln{{stroke:{th['line']};stroke-width:1}}"
            # same pop-in as stack.svg: each piece one by one, left->right, top->bottom
-           ".a{opacity:0;animation:drop .98s cubic-bezier(.2,.8,.2,1) both}"
+           ".a{opacity:0;animation:drop 1.4s cubic-bezier(.2,.8,.2,1) both}"
            "@keyframes drop{from{opacity:0;transform:translateY(-8px)}to{opacity:1;transform:none}}"
            "@media (prefers-reduced-motion:reduce){.a{animation:none!important;opacity:1!important;transform:none!important}}")
     items = [f'<text class="lbl" x="{PX}" y="20">PROJECT</text>', f'<text class="lbl" x="{AX}" y="20">ABOUT</text>',
@@ -84,7 +84,7 @@ def render(theme, icon):
                              for j, l in enumerate(stack_l)))
         y = top + max(34, 13 + 19 * (len(about_l) - 1), 36 + 15 * (len(stack_l) - 1)) + 18
         items.append(f'<line class="ln" x1="{PX}" x2="{W - PX}" y1="{y}" y2="{y}"/>')
-    body = [f'<g class="a" style="animation-delay:{n*0.1125:.3f}s">{it}</g>' for n, it in enumerate(items)]
+    body = [f'<g class="a" style="animation-delay:{n*0.1347:.3f}s">{it}</g>' for n, it in enumerate(items)]
     h = y + 4
     return (f'<svg xmlns="http://www.w3.org/2000/svg" width="{W}" height="{h}" viewBox="0 0 {W} {h}" role="img" '
             f'aria-label="Selected work: {escape(", ".join(w[0] for w in WORK))}" font-family="{FONT}">'
